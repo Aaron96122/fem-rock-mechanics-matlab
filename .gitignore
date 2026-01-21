@@ -1,0 +1,17 @@
+# OS / editors
+.DS_Store
+.cursor/
+.vscode/
+.idea/
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# Python
+__pycache__/
+*.pyc
+
